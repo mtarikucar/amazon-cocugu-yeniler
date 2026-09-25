@@ -1,0 +1,47 @@
+[
+  {
+    "name": "09-bas",
+    "faces_retained": 96814,
+    "vertices_regularized": 5883,
+    "max_vertex_displacement_mm": 0.0007880965831283456,
+    "stl_reload_watertight": true,
+    "stl_reload_winding_consistent": true,
+    "method": "Separate coincident topologically distinct vertices at STL coordinate precision; deterministic bounded perturbation, no faces or components removed."
+  },
+  {
+    "name": "12-bere",
+    "faces_retained": 83252,
+    "vertices_regularized": 176,
+    "max_vertex_displacement_mm": 0.0007880965831278938,
+    "stl_reload_watertight": true,
+    "stl_reload_winding_consistent": true,
+    "method": "Separate coincident topologically distinct vertices at STL coordinate precision; deterministic bounded perturbation, no faces or components removed."
+  },
+  {
+    "name": "13-pelerin-atki",
+    "faces_retained": 129220,
+    "vertices_regularized": 239,
+    "max_vertex_displacement_mm": 0.0007880965831255197,
+    "stl_reload_watertight": true,
+    "stl_reload_winding_consistent": true,
+    "method": "Separate coincident topologically distinct vertices at STL coordinate precision; deterministic bounded perturbation, no faces or components removed."
+  },
+  {
+    "name": "14-tunik-kollar",
+    "faces_retained": 122570,
+    "vertices_regularized": 2375,
+    "max_vertex_displacement_mm": 0.0007880965831258764,
+    "stl_reload_watertight": true,
+    "stl_reload_winding_consistent": true,
+    "method": "Separate coincident topologically distinct vertices at STL coordinate precision; deterministic bounded perturbation, no faces or components removed."
+  },
+  {
+    "name": "16-sac",
+    "faces_retained": 226308,
+    "vertices_regularized": 1177,
+    "max_vertex_displacement_mm": 0.0007880965831277885,
+    "stl_reload_watertight": true,
+    "stl_reload_winding_consistent": true,
+    "method": "Separate coincident topologically distinct vertices at STL coordinate precision; deterministic bounded perturbation, no faces or components removed."
+  }
+]

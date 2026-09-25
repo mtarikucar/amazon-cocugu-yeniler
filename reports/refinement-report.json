@@ -1,0 +1,166 @@
+{
+  "affected_source_volume": 0.13160630940157167,
+  "corrected_volume": 0.13160498910421964,
+  "missing_volume": -0.00016853374231814937,
+  "added_volume": -0.00016971519176187794,
+  "boundary_remnants": [],
+  "hat_boundary": {
+    "coefficients": [
+      0.6443724862157866,
+      0.021830879146898095,
+      0.06156988167536525,
+      0.0022937566939950755,
+      0.01223510059987506,
+      -0.010659728830263,
+      0.004888855051822134,
+      -0.0006168286856577448,
+      0.0010879339474523036
+    ],
+    "center_xz": [
+      -0.06,
+      0.02
+    ],
+    "classification_agreement": 0.9408448467524217
+  },
+  "boolean_surface_tolerance_source_units": 1e-05,
+  "cape_cutter_outward_offset_source_units": 0.001,
+  "volume_difference_interpretation": "Signed Boolean difference is unreliable on overlapping/coincident source surfaces; use the independent multi-view exterior ray comparison for preservation checks.",
+  "parts": [
+    {
+      "index": 0,
+      "name": "taban",
+      "faces": 100418,
+      "watertight": true,
+      "volume": 0.11496683580854883,
+      "changed": false
+    },
+    {
+      "index": 1,
+      "name": "sag-cizme",
+      "faces": 64664,
+      "watertight": true,
+      "volume": 0.007326696994516084,
+      "changed": false
+    },
+    {
+      "index": 2,
+      "name": "el",
+      "faces": 17336,
+      "watertight": true,
+      "volume": 0.0013180021244634885,
+      "changed": false
+    },
+    {
+      "index": 3,
+      "name": "kalkan-detay",
+      "faces": 25822,
+      "watertight": true,
+      "volume": 0.010396039766781778,
+      "changed": false
+    },
+    {
+      "index": 4,
+      "name": "sol-cizme",
+      "faces": 64172,
+      "watertight": true,
+      "volume": 0.006758875746117936,
+      "changed": false
+    },
+    {
+      "index": 5,
+      "name": "kalkan-armasi",
+      "faces": 62188,
+      "watertight": true,
+      "volume": 0.004512595006662164,
+      "changed": false
+    },
+    {
+      "index": 6,
+      "name": "kulak",
+      "faces": 2448,
+      "watertight": true,
+      "volume": 6.321304744450684e-05,
+      "changed": false
+    },
+    {
+      "index": 7,
+      "name": "kalkan-merkez",
+      "faces": 62720,
+      "watertight": true,
+      "volume": 0.00587567974786183,
+      "changed": false
+    },
+    {
+      "index": 8,
+      "name": "kalkan-govde",
+      "faces": 60008,
+      "watertight": true,
+      "volume": -0.013133817039173365,
+      "changed": false
+    },
+    {
+      "index": 9,
+      "name": "bas",
+      "faces": 96814,
+      "watertight": true,
+      "volume": 0.011171644463696678,
+      "changed": true
+    },
+    {
+      "index": 10,
+      "name": "pantolon",
+      "faces": 78626,
+      "watertight": true,
+      "volume": 0.0267293710921242,
+      "changed": false
+    },
+    {
+      "index": 11,
+      "name": "kalkan-cerceve",
+      "faces": 71570,
+      "watertight": true,
+      "volume": 0.025727461933034823,
+      "changed": false
+    },
+    {
+      "index": 12,
+      "name": "bere",
+      "faces": 83252,
+      "watertight": true,
+      "volume": 0.0325586027751107,
+      "changed": true
+    },
+    {
+      "index": 13,
+      "name": "pelerin-atki",
+      "faces": 129220,
+      "watertight": true,
+      "volume": 0.02790020386131496,
+      "changed": true
+    },
+    {
+      "index": 14,
+      "name": "tunik-kollar",
+      "faces": 122570,
+      "watertight": true,
+      "volume": 0.02485638173878786,
+      "changed": true
+    },
+    {
+      "index": 15,
+      "name": "zirh",
+      "faces": 131078,
+      "watertight": true,
+      "volume": 0.01598416474891349,
+      "changed": false
+    },
+    {
+      "index": 16,
+      "name": "sac",
+      "faces": 226308,
+      "watertight": true,
+      "volume": 0.03509674905497999,
+      "changed": true
+    }
+  ]
+}

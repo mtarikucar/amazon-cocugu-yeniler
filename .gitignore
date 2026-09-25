@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+.env.*
+*.blend1
+*.blend2
+*.log
+work/

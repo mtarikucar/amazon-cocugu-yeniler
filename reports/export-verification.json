@@ -1,0 +1,139 @@
+{
+  "glb_objects": 17,
+  "source_bounds_preserved": true,
+  "unchanged_parts_exact": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    15
+  ],
+  "assembled_height_mm": 150.0,
+  "stl_parts": [
+    {
+      "file": "00-taban.stl",
+      "faces": 100418,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "01-sag-cizme.stl",
+      "faces": 64664,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "02-el.stl",
+      "faces": 17336,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "03-kalkan-detay.stl",
+      "faces": 25822,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "04-sol-cizme.stl",
+      "faces": 64172,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "05-kalkan-armasi.stl",
+      "faces": 62188,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "06-kulak.stl",
+      "faces": 2448,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "07-kalkan-merkez.stl",
+      "faces": 62720,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "08-kalkan-govde.stl",
+      "faces": 60008,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "09-bas.stl",
+      "faces": 96814,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "10-pantolon.stl",
+      "faces": 78626,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "11-kalkan-cerceve.stl",
+      "faces": 71570,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "12-bere.stl",
+      "faces": 83252,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "13-pelerin-atki.stl",
+      "faces": 129220,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "14-tunik-kollar.stl",
+      "faces": 122570,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "15-zirh.stl",
+      "faces": 131078,
+      "watertight": true,
+      "winding_consistent": true
+    },
+    {
+      "file": "16-sac.stl",
+      "faces": 226308,
+      "watertight": true,
+      "winding_consistent": true
+    }
+  ],
+  "three_mf_objects": 17,
+  "three_mf_indices_valid": true,
+  "exterior_surface_check": {
+    "views": 10,
+    "rays": 1200000,
+    "silhouette_changes": 0,
+    "max_difference_mm": 0.002664727311020394
+  },
+  "sha256": {
+    "amazon-cocugu-yeniler.blend": "d8ae0a7ec3b1f866f18a5b05eb5e26ff2870785d46db6470c83abf6142dc330c",
+    "parca-listesi.json": "3c188224314ee4d1c5e1d763cded032b7ca07d6a9fdbec9a47c2dc2bc4c17aaa",
+    "parcali-model-150mm.3mf": "e08e25a9aa4be7a4b23752a14fa01927310c002704ec973b238173941941de6a",
+    "ayri-parcalar-150mm-STL.zip": "0ec8572f1ad419c38e9a6c9e2d878a4d62c67b0d2a9c5063730ae49a7789de59",
+    "amazon-cocugu-yeniler.blend1": "2bd595527ca97aa0079c2c69444b59448c7d37764594aa29f318a7de17e33f18",
+    "model.glb": "c8a11207ccdd660a9137e4324cbb5c771d780b5b64bdf7c73be06431e3fd3e1f"
+  }
+}

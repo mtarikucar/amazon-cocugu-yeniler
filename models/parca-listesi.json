@@ -1,0 +1,189 @@
+[
+  {
+    "file": "00-taban.stl",
+    "source_object": "00-taban",
+    "triangles": 100418,
+    "watertight": true,
+    "dimensions_mm": [
+      83.60774809644033,
+      83.522318436901,
+      28.93134502120745
+    ]
+  },
+  {
+    "file": "01-sag-cizme.stl",
+    "source_object": "01-sag-cizme",
+    "triangles": 64664,
+    "watertight": true,
+    "dimensions_mm": [
+      21.506923247981497,
+      21.881421081859433,
+      48.9905029407269
+    ]
+  },
+  {
+    "file": "02-el.stl",
+    "source_object": "02-el",
+    "triangles": 17336,
+    "watertight": true,
+    "dimensions_mm": [
+      9.606344788685071,
+      12.45429027031501,
+      16.87334245603941
+    ]
+  },
+  {
+    "file": "03-kalkan-detay.stl",
+    "source_object": "03-kalkan-detay",
+    "triangles": 25822,
+    "watertight": true,
+    "dimensions_mm": [
+      46.520264219165924,
+      21.1760879486989,
+      51.51664949445878
+    ]
+  },
+  {
+    "file": "04-sol-cizme.stl",
+    "source_object": "04-sol-cizme",
+    "triangles": 64172,
+    "watertight": true,
+    "dimensions_mm": [
+      24.18534523982546,
+      21.41022212510042,
+      46.10674871997609
+    ]
+  },
+  {
+    "file": "05-kalkan-armasi.stl",
+    "source_object": "05-kalkan-armasi",
+    "triangles": 62188,
+    "watertight": true,
+    "dimensions_mm": [
+      31.006616013115956,
+      17.082448769684195,
+      36.500291193170476
+    ]
+  },
+  {
+    "file": "06-kulak.stl",
+    "source_object": "06-kulak",
+    "triangles": 2448,
+    "watertight": true,
+    "dimensions_mm": [
+      5.473906668055851,
+      5.337140501620752,
+      7.727138893458431
+    ]
+  },
+  {
+    "file": "07-kalkan-merkez.stl",
+    "source_object": "07-kalkan-merkez",
+    "triangles": 62720,
+    "watertight": true,
+    "dimensions_mm": [
+      24.292762062344746,
+      22.690566353570986,
+      33.291004475045746
+    ]
+  },
+  {
+    "file": "08-kalkan-govde.stl",
+    "source_object": "08-kalkan-govde",
+    "triangles": 60008,
+    "watertight": true,
+    "dimensions_mm": [
+      47.638063564946606,
+      23.20251309476757,
+      51.39284189972376
+    ]
+  },
+  {
+    "file": "09-bas.stl",
+    "source_object": "09-bas",
+    "triangles": 96814,
+    "watertight": true,
+    "dimensions_mm": [
+      36.64145810975563,
+      29.433957985508833,
+      36.5926941752065
+    ]
+  },
+  {
+    "file": "10-pantolon.stl",
+    "source_object": "10-pantolon",
+    "triangles": 78626,
+    "watertight": true,
+    "dimensions_mm": [
+      51.241094040785086,
+      25.672708365177943,
+      35.807961110421644
+    ]
+  },
+  {
+    "file": "11-kalkan-cerceve.stl",
+    "source_object": "11-kalkan-cerceve",
+    "triangles": 71570,
+    "watertight": true,
+    "dimensions_mm": [
+      55.24091983690177,
+      28.80768921191075,
+      59.679638659291975
+    ]
+  },
+  {
+    "file": "12-bere.stl",
+    "source_object": "12-bere",
+    "triangles": 83252,
+    "watertight": true,
+    "dimensions_mm": [
+      38.755529217634084,
+      40.78016493962827,
+      29.425029948411975
+    ]
+  },
+  {
+    "file": "13-pelerin-atki.stl",
+    "source_object": "13-pelerin-atki",
+    "triangles": 129220,
+    "watertight": true,
+    "dimensions_mm": [
+      45.636924346238686,
+      36.35276866504068,
+      52.153316891731095
+    ]
+  },
+  {
+    "file": "14-tunik-kollar.stl",
+    "source_object": "14-tunik-kollar",
+    "triangles": 122570,
+    "watertight": true,
+    "dimensions_mm": [
+      55.58109126179041,
+      36.76089005618775,
+      51.87206581426001
+    ]
+  },
+  {
+    "file": "15-zirh.stl",
+    "source_object": "15-zirh",
+    "triangles": 131078,
+    "watertight": true,
+    "dimensions_mm": [
+      34.789142604985265,
+      30.96493402894007,
+      35.26323693503758
+    ]
+  },
+  {
+    "file": "16-sac.stl",
+    "source_object": "16-sac",
+    "triangles": 226308,
+    "watertight": true,
+    "dimensions_mm": [
+      59.88123320847899,
+      52.60867790408936,
+      62.86888617649322
+    ]
+  }
+]

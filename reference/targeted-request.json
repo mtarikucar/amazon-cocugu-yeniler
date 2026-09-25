@@ -1,0 +1,10 @@
+{
+  "input_task_id": "01a0d50e-46b3-72de-9daf-77017bcae990",
+  "mode": "by_parts",
+  "prompt": "Separate exactly these three components from the remaining figure: (1) the complete knitted hat, including the entire folded patterned brim all around the head; (2) all hair, including scalp hair, forehead bangs, both complete braids and their tips, excluding the hat and cloth; (3) the scarf and back cape, following the actual cloth edges at the shoulders and down the back, excluding hair, arms and tunic sleeves. Keep every sleeve and hand entirely with the remaining figure, not with the cape.",
+  "target_formats": [
+    "glb"
+  ],
+  "layout": "assembled",
+  "connectors": false
+}

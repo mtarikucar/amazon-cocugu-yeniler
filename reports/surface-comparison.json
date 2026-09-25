@@ -1,0 +1,105 @@
+{
+  "method": "First ray hit from ten orthographic directions, 300x400 rays each, compared at 150 mm height. Finite sampling does not prove exact surface equality.",
+  "views": [
+    {
+      "view": "front",
+      "rays": 120000,
+      "source_hits": 65767,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.0012429830149504886,
+      "p99_surface_difference_mm": 6.999703777698303e-14,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "back",
+      "rays": 120000,
+      "source_hits": 65767,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.002079230631238087,
+      "p99_surface_difference_mm": 6.999703777698303e-14,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "left",
+      "rays": 120000,
+      "source_hits": 56495,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.0012231735125140225,
+      "p99_surface_difference_mm": 6.999703777698303e-14,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "right",
+      "rays": 120000,
+      "source_hits": 56495,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.0005572698669952068,
+      "p99_surface_difference_mm": 6.999703777698303e-14,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "top",
+      "rays": 120000,
+      "source_hits": 81695,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.00046149992652345874,
+      "p99_surface_difference_mm": 3.499851888849152e-14,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "bottom",
+      "rays": 120000,
+      "source_hits": 81695,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 6.999703777698303e-14,
+      "p99_surface_difference_mm": 0.0,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "front-left",
+      "rays": 120000,
+      "source_hits": 67452,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.0013395210076838312,
+      "p99_surface_difference_mm": 6.999703777698303e-14,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "front-right",
+      "rays": 120000,
+      "source_hits": 58570,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.00034632514237038445,
+      "p99_surface_difference_mm": 6.999703777698303e-14,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "back-left",
+      "rays": 120000,
+      "source_hits": 58570,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.0017573188904405526,
+      "p99_surface_difference_mm": 1.0499555666547455e-13,
+      "rays_over_0_1mm": 0
+    },
+    {
+      "view": "back-right",
+      "rays": 120000,
+      "source_hits": 67452,
+      "lost_silhouette_rays": 0,
+      "added_silhouette_rays": 0,
+      "max_surface_difference_mm": 0.002664727311020394,
+      "p99_surface_difference_mm": 6.999703777698303e-14,
+      "rays_over_0_1mm": 0
+    }
+  ]
+}
