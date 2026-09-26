@@ -1,0 +1,18 @@
+{
+  "revision": "Adim10",
+  "total_parts": 20,
+  "assembly_height_mm": 160.0,
+  "static_pairs": 190,
+  "motion_pairs": 73,
+  "motion_samples": 10893,
+  "numerical_overlap_tolerance_mm3": 0.001,
+  "largest_overlap_mm3": 0.0001599400865967443,
+  "physical_print_test_performed": false,
+  "uniform_minimum_wall_thickness_certified": false,
+  "notes": [
+    "Dijital montaj kontrolleri belirtilen sirayla yapildi.",
+    "Tek kafa isininin yakin cikisi Embree tarafindan atlandi; cift duyarlikli analitik kontrol iki kesisim ve sifir toplam winding buldu.",
+    "Dekoratif desen kabartilari bu montaj revizyonunda korunmustur.",
+    "Ortak STL koordinatlari modelin montajini korur; dilimleyicide parcalari bagimsiz yerlestirin."
+  ]
+}

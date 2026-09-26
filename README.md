@@ -1,57 +1,34 @@
-# Amazon Çocuğu Yeniler
+# Amazon Çocuğu Yeniler — v2.0.0
 
-150 mm yüksekliğinde, 17 parçalı figür ve Blender inceleme dosyası.
+Kaide dahil **160 mm**, pim–yuva montajlı **20 parçalı** güncel STL seti. Gözleri kafayla bütün olan alternatif kafa aynı ZIP'e eklenmiştir.
 
-![Önce ve sonra: pelerin, saç ve bere sınırları](previews/once-sonra.png)
+**[Tüm STL'leri tek ZIP indir](models/amazon-cocugu-160mm-stl-v2.0.0.zip)** · [GitHub sürümü](https://github.com/mtarikucar/amazon-cocugu-yeniler/releases/tag/v2.0.0) · [Montaj kılavuzu](docs/v2.0.0/MONTAJ.md)
 
-Başlangıç modeli, tercih edilen `01a0d77f-7be7-71a8-8909-d1776eaf0c68` görevinin çıktısıdır. Bere–saç ve pelerin–tunik/kol sınırları bu model üzerinde yeniden düzenlenmiştir. Kalkan, taban, çizme ve pantolon parçaları başlangıç geometrisini korur.
+![160 mm modelin güncel görünümü](docs/v2.0.0/images/front.png)
 
-## Dosyalar
+## ZIP içeriği
 
-- `models/amazon-cocugu-yeniler.blend`: önce/sonra karşılaştırması ve ayrı parçalar için iki sahne.
-- `models/parcali-model-150mm.3mf`: ortak montaj altında ayrı nesneler; birim mm.
-- `models/ayri-parcalar-150mm-STL.zip`: her parça ayrı STL, ortak montaj koordinatları korunur.
-- `models/model.glb`: düzenlenmiş geometri ve parça renkleri, kaynak koordinat ölçeğinde.
-- `models/parca-listesi.json`: dosya adları ve parça boyutları.
-- `previews/`: önce/sonra görünüşleri.
-- `reports/`: geometri ve dışa aktarma kontrolleri.
-- `reference/`: yeniden üretim için başlangıç modeli, bölge önerisi ve bere sınırı katsayıları.
+- `STL/`: 20 parçalı ana figür seti.
+- `Alternatif_Kafa/`: gözleri ayrılmamış, tek parça kafa. `15_Kafa`, `16_Sol_Goz` ve `17_Sag_Goz` yerine kullanılır; bu seçenekle figür **18 parçadan** oluşur.
+- `Gecme_Testi/`: 4 isteğe bağlı tolerans testi STL'si.
+- Türkçe kullanım açıklaması ve SHA256 dosya doğrulama listesi.
 
-## Blender
+Toplam **21 model STL'si + 4 test STL'si** bulunur. Alternatif kafayla standart kafa/gözleri aynı figürde birlikte kullanmayın.
 
-`01 - Once ve sonra` sahnesinde solda başlangıç modeli, sağda düzeltilmiş model bulunur. `02 - Son 17 parca tek tek` sahnesi parçaları ayrı ayrı gösterir. Sahne menüsü üst çubuktadır.
+## Bu sürümde
 
-Seçili parçaya odaklanmak için **Numpad .**, tek başına göstermek için **/**, tümünü görmek için **Home** kullanın.
+Pelerin hasarı onarıldı; saç, bere, kafa ve kıyafet sınırları elle düzeltilen model üzerinden korundu. Zırh elbiseden ayrı, iki el ve iki göz bağımsız parçalardır. Kalkan gövdesi, metal çember ve arma ayrı hazırlanmıştır. Montaj yolları ve pim–yuva bağlantıları düzenlenmiştir. Kaşlar ve kirpikler kafanın üzerinde kalır. Desen kabartıları bu montaj sürümünde korunmuştur.
 
-## Düzenleme yöntemi
+STL'ler mm cinsindedir ve ortak montaj konumlarında, desteksiz verilir. Dilimleyicide her baskı parçasını uygun yönde yerleştirip destekleyin; ölçeği %100 tutun.
 
-Bere–saç kesim yüzeyi orijinal dokudaki yüksek güvenli renk örneklerinden çıkarılan açısal sınırla oluşturulur. Pelerin için kaynak görev `01a0d50e-46b3-72de-9daf-77017bcae990` üzerinden alınan hedefli bölge önerisi kullanılır. Öneri modelinin geometri hacmi doğrudan eklenmez; yalnızca başlangıç modelinin parçalarını yeniden bölmek için kullanılır. Sınır kalıntıları komşu parçalara atanır. Ters yönlü, ihmal edilebilir iç yüzey kalıntısı temizlenir.
+## Doğrulama
 
-Hedefli bölge görevi: `01a0d97a-7a91-72e2-8f91-67096c6a6d0a` (10 kredi).
+20 ana STL'nin tamamı tekrar içe aktarılarak tek kapalı bileşen, tutarlı yüz yönü ve sıfır alanlı üçgen bulunmaması açısından kontrol edildi. 190 parça çifti ve belirtilen montaj sırasındaki 73 hareketli/sabit çift toplam 10.893 konumda denetlendi; 0,001 mm³ sayısal eşik üzerinde çakışma bulunmadı. Alternatif kafa ayrıca kapalı tek parça ve mevcut saç/bere/boyun bağlantılarıyla uyumlu olarak kontrol edildi.
 
-STL'nin 32 bit koordinat hassasiyetinde çakışan fakat topolojik olarak ayrı kesim noktaları, yüzey silmeden deterministik olarak ayrıştırılır. En büyük nokta hareketi yaklaşık 0,00079 mm'dir. Ayrıntılar `reports/mesh-cleanup.json` dosyasındadır.
+[Kontrol özeti](reports/v2.0.0/Ozet.json) · [STL kontrolleri](reports/v2.0.0/STL_Dogrulama.json) · [Alternatif kafa kontrolü](reports/v2.0.0/butun-gozlu-kafa.json)
 
-Renkler parça ayrımını gösterir; orijinal renk/desen dokuları değildir. Otomatik montaj pimleri eklenmemiştir. Geometrik kontroller fiziksel baskı ve tolerans testi yerine geçmez.
+Fiziksel baskı denenmedi. 200 adet üretimden önce kendi reçine ve kürleme ayarlarınızla geçme kuponlarını ve bir tam prototipi deneyin. Pim ve yuvaları boya/astar birikmesinden koruyun.
 
-## Yeniden üretme
+## Önceki sürüm
 
-Python 3.12 ve Blender 5.2.1 ile hazırlanmıştır.
-
-```sh
-python -m venv .venv
-.venv/bin/pip install -r scripts/requirements.txt
-.venv/bin/python scripts/refine_boundaries.py
-.venv/bin/python scripts/clean_meshes.py
-.venv/bin/python scripts/compare_surfaces.py
-.venv/bin/python scripts/export_parts.py
-blender -b --python scripts/prepare_blender.py
-.venv/bin/python scripts/verify_exports.py
-```
-
-Yeniden üretim yerel dosyaları kullanır ve API anahtarı gerektirmez.
-
-## Kontrol kapsamı
-
-Kaynak modellerde çakışan yüzeyler bulunduğundan işaretli Boolean hacim farkı güvenilir bir kayıp ölçüsü değildir; raporda tanılama bilgisi olarak saklanır. Dış yüzey koruması 10 yönden toplam 1.200.000 ışının ilk yüzey kesişimiyle ayrıca ölçülür. Bu örneklemeli kontrol tam matematiksel eşitlik kanıtı değildir. STL dosyaları yeniden içeri aktarılıp kapalı yüzey ve tutarlı yüz yönü açısından kontrol edilir. Fiziksel baskı denenmemiştir.
-
-Son doğrulama: 17 STL kapalı ve yüz yönleri tutarlı; montaj yüksekliği 150 mm. Örneklenen 10 görünüşte kayıp veya eklenen siluet ışını yoktur. Ayrıca başlangıç modelinin 12 parçasının tepe noktaları ve üçgenleri birebir korunmuştur. Kapalı yüzey kontrolü, kendi kendine kesişme veya fiziksel montaj toleransı garantisi değildir.
+Eski 150 mm / 17 parçalı model dosyaları arşiv olarak korunur. [Önceki modelin açıklaması](docs/onceki-150mm-surum.md). Eski parçalarla bu 160 mm setin parçalarını karıştırmayın; güncel indirme yukarıdaki v2.0.0 ZIP'idir.

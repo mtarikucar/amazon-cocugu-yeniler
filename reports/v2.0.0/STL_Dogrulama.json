@@ -1,0 +1,402 @@
+{
+  "01_Kaide": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 59943.27899057896,
+    "triangles": 65076,
+    "bounds_mm": [
+      [
+        -44.59099197387695,
+        -44.54523468017578,
+        0.0
+      ],
+      [
+        44.590606689453125,
+        44.54523468017578,
+        10.850000381469727
+      ]
+    ]
+  },
+  "02_Kaya": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 8181.786777125019,
+    "triangles": 37292,
+    "bounds_mm": [
+      [
+        -26.53704071044922,
+        11.943979263305664,
+        7.349999904632568
+      ],
+      [
+        17.638858795166016,
+        40.179481506347656,
+        30.86009979248047
+      ]
+    ]
+  },
+  "03_Sol_Bot": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 4352.439574152137,
+    "triangles": 64648,
+    "bounds_mm": [
+      [
+        -36.472557067871094,
+        -12.975893020629883,
+        1.883273959159851
+      ],
+      [
+        -13.531828880310059,
+        10.364289283752441,
+        54.139808654785156
+      ]
+    ]
+  },
+  "04_Sag_Bot": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 4015.1326523832054,
+    "triangles": 64108,
+    "bounds_mm": [
+      [
+        11.101166725158691,
+        -20.582727432250977,
+        1.999621033668518
+      ],
+      [
+        36.89886474609375,
+        2.25484299659729,
+        51.180152893066406
+      ]
+    ]
+  },
+  "05_Bacaklar": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 15393.591111915164,
+    "triangles": 61940,
+    "bounds_mm": [
+      [
+        -29.203977584838867,
+        -18.422903060913086,
+        32.66994094848633
+      ],
+      [
+        25.453184127807617,
+        8.908645629882812,
+        70.76390838623047
+      ]
+    ]
+  },
+  "06_Elbise": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 12371.728363265436,
+    "triangles": 75544,
+    "bounds_mm": [
+      [
+        -27.155691146850586,
+        -25.0578556060791,
+        54.305362701416016
+      ],
+      [
+        23.697935104370117,
+        12.155014038085938,
+        85.8446273803711
+      ]
+    ]
+  },
+  "07_Zirh": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 9192.577188727833,
+    "triangles": 123702,
+    "bounds_mm": [
+      [
+        -19.919912338256836,
+        -22.892627716064453,
+        69.42622375488281
+      ],
+      [
+        16.96687889099121,
+        10.058419227600098,
+        103.05303192138672
+      ]
+    ]
+  },
+  "08_Pelerin": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 15537.986531794872,
+    "triangles": 111420,
+    "bounds_mm": [
+      [
+        -23.95210838317871,
+        -23.69602394104004,
+        62.88412857055664
+      ],
+      [
+        24.707956314086914,
+        15.080262184143066,
+        113.1261215209961
+      ]
+    ]
+  },
+  "09_Sol_Kol": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 2391.735667379162,
+    "triangles": 31992,
+    "bounds_mm": [
+      [
+        -35.18292999267578,
+        -5.461023807525635,
+        71.64698791503906
+      ],
+      [
+        -11.81876277923584,
+        10.076563835144043,
+        102.55274963378906
+      ]
+    ]
+  },
+  "10_Sol_El": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 788.662431596587,
+    "triangles": 14474,
+    "bounds_mm": [
+      [
+        -35.716819763183594,
+        -5.27566385269165,
+        63.34943389892578
+      ],
+      [
+        -25.47004508972168,
+        8.008913040161133,
+        81.42161560058594
+      ]
+    ]
+  },
+  "11_Sag_Kol": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 2993.245193938126,
+    "triangles": 36520,
+    "bounds_mm": [
+      [
+        10.293335914611816,
+        -27.342348098754883,
+        70.93557739257812
+      ],
+      [
+        32.92307662963867,
+        -3.9990060329437256,
+        99.14470672607422
+      ]
+    ]
+  },
+  "20_Sag_El": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 454.2834746400077,
+    "triangles": 18044,
+    "bounds_mm": [
+      [
+        12.49544620513916,
+        -27.54143524169922,
+        64.38274383544922
+      ],
+      [
+        36.20561218261719,
+        -17.422607421875,
+        74.63892364501953
+      ]
+    ]
+  },
+  "12_Kalkan": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 15970.951157120546,
+    "triangles": 43386,
+    "bounds_mm": [
+      [
+        1.689576506614685,
+        -32.74903106689453,
+        50.21220016479492
+      ],
+      [
+        53.54435348510742,
+        -5.468148231506348,
+        105.37687683105469
+      ]
+    ]
+  },
+  "13_Kalkan_Cemberi": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 4046.3102860412146,
+    "triangles": 60294,
+    "bounds_mm": [
+      [
+        -2.8130404949188232,
+        -33.78458786010742,
+        45.76004409790039
+      ],
+      [
+        56.84565734863281,
+        -2.5793049335479736,
+        109.41831970214844
+      ]
+    ]
+  },
+  "14_Arma": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 2708.0321256089887,
+    "triangles": 62752,
+    "bounds_mm": [
+      [
+        13.453621864318848,
+        -33.04104232788086,
+        56.19099044799805
+      ],
+      [
+        46.52734375,
+        -14.81976318359375,
+        95.12464141845703
+      ]
+    ]
+  },
+  "15_Kafa": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 6350.25122754501,
+    "triangles": 45664,
+    "bounds_mm": [
+      [
+        -16.272560119628906,
+        -20.949748992919922,
+        100.05757141113281
+      ],
+      [
+        19.588754653930664,
+        7.663769721984863,
+        138.53665161132812
+      ]
+    ]
+  },
+  "16_Sol_Goz": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 83.16825893734807,
+    "triangles": 1970,
+    "bounds_mm": [
+      [
+        -3.4264819622039795,
+        -18.468358993530273,
+        123.42100524902344
+      ],
+      [
+        2.7259533405303955,
+        -12.398818969726562,
+        128.19651794433594
+      ]
+    ]
+  },
+  "17_Sag_Goz": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 78.42969430492383,
+    "triangles": 2074,
+    "bounds_mm": [
+      [
+        10.889321327209473,
+        -11.33698844909668,
+        121.60108947753906
+      ],
+      [
+        16.619081497192383,
+        -3.5339996814727783,
+        125.98539733886719
+      ]
+    ]
+  },
+  "18_Sac": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 22698.52746074152,
+    "triangles": 206718,
+    "bounds_mm": [
+      [
+        -39.099700927734375,
+        -24.527246475219727,
+        74.3613510131836
+      ],
+      [
+        24.77361488342285,
+        31.58867835998535,
+        145.44723510742188
+      ]
+    ]
+  },
+  "19_Bere": {
+    "watertight": true,
+    "winding_consistent": true,
+    "zero_area_faces": 0,
+    "components": 1,
+    "volume_mm3": 16417.949830032696,
+    "triangles": 70750,
+    "bounds_mm": [
+      [
+        -18.67837905883789,
+        -22.142990112304688,
+        129.0308074951172
+      ],
+      [
+        21.559019088745117,
+        19.672069549560547,
+        160.0
+      ]
+    ]
+  }
+}
