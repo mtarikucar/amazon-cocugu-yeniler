@@ -4,3 +4,8 @@ scipy==1.18.1
 manifold3d==3.5.4
 pillow==12.3.0
 embreex==4.4.0
+reportlab==5.0.1
+shapely==2.1.2
+scikit-image==0.26.0
+matplotlib==3.11.2
+rtree==1.4.1
