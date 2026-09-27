@@ -1,0 +1,302 @@
+{
+  "units": "mm",
+  "height_including_base_mm": 160,
+  "parts": [
+    {
+      "name": "01_Kaide",
+      "file": "STL/01_Kaide.stl",
+      "removal_axis": [
+        0,
+        0,
+        0
+      ],
+      "removal_distance_mm": 0,
+      "painting_color_rgb": [
+        0.25,
+        0.27,
+        0.29
+      ],
+      "sha256": "7c191c2d8debb8df56e5614e09253e9263ebdfdb298873222782b6ecfad46a6e"
+    },
+    {
+      "name": "02_Kaya",
+      "file": "STL/02_Kaya.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 40,
+      "painting_color_rgb": [
+        0.33,
+        0.35,
+        0.37
+      ],
+      "sha256": "5f367b473f01317f7707453075e6fa9577b0b03eb8088bcdffa420919e8f917d"
+    },
+    {
+      "name": "03_Sol_Bot",
+      "file": "STL/03_Sol_Bot.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 65,
+      "painting_color_rgb": [
+        0.22,
+        0.12,
+        0.065
+      ],
+      "sha256": "ddb536583534b8e88f5f3c496b286385e8563fd2674d753ad1c89c0478bb0ebe"
+    },
+    {
+      "name": "04_Sag_Bot",
+      "file": "STL/04_Sag_Bot.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 65,
+      "painting_color_rgb": [
+        0.22,
+        0.12,
+        0.065
+      ],
+      "sha256": "2d96cee1c23aab4806abd4cfe55ae9d726fb03bd40e1ebc517fa41e889cd37d2"
+    },
+    {
+      "name": "05_Bacaklar",
+      "file": "STL/05_Bacaklar.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 75,
+      "painting_color_rgb": [
+        0.4,
+        0.05,
+        0.045
+      ],
+      "sha256": "922ea79f55ce68bf76866ffb8dd0a7aa2cbcb4294191f2fc96adb5b43a9d3c4f"
+    },
+    {
+      "name": "06_Elbise",
+      "file": "STL/06_Elbise.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 90,
+      "painting_color_rgb": [
+        0.74,
+        0.66,
+        0.5
+      ],
+      "sha256": "5472ff2a036c1e07ef09c018099d19e5043ba8b6484e85e1c119123e17a1e709"
+    },
+    {
+      "name": "07_Zirh",
+      "file": "STL/07_Zirh.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 90,
+      "painting_color_rgb": [
+        0.25,
+        0.14,
+        0.075
+      ],
+      "sha256": "f6f46f288aec1459cc9702cc02df188e427c03f320cc1cc88a1df15791edf81f"
+    },
+    {
+      "name": "08_Pelerin",
+      "file": "STL/08_Pelerin.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 100,
+      "painting_color_rgb": [
+        0.5,
+        0.035,
+        0.035
+      ],
+      "sha256": "bead5f373455928e50a15e4a3b0418bd73ac5facd4d1af909269d28d4c4b8cdb"
+    },
+    {
+      "name": "09_Sol_Kol",
+      "file": "STL/09_Sol_Kol.stl",
+      "removal_axis": [
+        -1,
+        0,
+        0
+      ],
+      "removal_distance_mm": 70,
+      "painting_color_rgb": [
+        0.74,
+        0.66,
+        0.5
+      ],
+      "sha256": "042a2da85c64661a1ce47d91304ab476f52f09a19387f3e99137cc2cbd78df69"
+    },
+    {
+      "name": "10_Sol_El",
+      "file": "STL/10_Sol_El.stl",
+      "removal_axis": [
+        -0.32694322,
+        -0.23532114,
+        -0.91527706
+      ],
+      "removal_distance_mm": 35,
+      "painting_color_rgb": [
+        0.75,
+        0.45,
+        0.28
+      ],
+      "sha256": "42aa03603c7152b3879368d102e66c6d3f48b3bf052a2fcfa303829751608d80"
+    },
+    {
+      "name": "11_Sag_Kol",
+      "file": "STL/11_Sag_Kol.stl",
+      "removal_axis": [
+        0.70710678,
+        0,
+        -0.70710678
+      ],
+      "removal_distance_mm": 60,
+      "painting_color_rgb": [
+        0.74,
+        0.66,
+        0.5
+      ],
+      "sha256": "34c48b39d79ed8d4b173640ce3d1c226b3528f21c44fe52b89d48c60811eec2b"
+    },
+    {
+      "name": "20_Sag_El",
+      "file": "STL/20_Sag_El.stl",
+      "removal_axis": [
+        0.0209873773,
+        -0.0483171894,
+        -0.9986115257
+      ],
+      "removal_distance_mm": 40,
+      "painting_color_rgb": [
+        0.75,
+        0.45,
+        0.28
+      ],
+      "sha256": "491c706ee91fd3680dff24e5ed684a755159afd6ef9309d4ad45ea86639e868f"
+    },
+    {
+      "name": "12_Kalkan",
+      "file": "STL/12_Kalkan.stl",
+      "removal_axis": [
+        0.39785207,
+        -0.91593597,
+        0.05267847
+      ],
+      "removal_distance_mm": 80,
+      "painting_color_rgb": [
+        0.55,
+        0.055,
+        0.04
+      ],
+      "sha256": "9d74e1da16c24ec517127724b25935bf9d46fa5c42fddb6a85699b1d286473f0"
+    },
+    {
+      "name": "13_Kalkan_Cemberi",
+      "file": "STL/13_Kalkan_Cemberi.stl",
+      "removal_axis": [
+        0.39785207,
+        -0.91593597,
+        0.05267847
+      ],
+      "removal_distance_mm": 25,
+      "painting_color_rgb": [
+        0.42,
+        0.28,
+        0.12
+      ],
+      "sha256": "96efabc8d8601fd216fa05d9ce8409f831b28128cef5765fb15c97f7adac5f4e"
+    },
+    {
+      "name": "14_Arma",
+      "file": "STL/14_Arma.stl",
+      "removal_axis": [
+        0.39785207,
+        -0.91593597,
+        0.05267847
+      ],
+      "removal_distance_mm": 30,
+      "painting_color_rgb": [
+        0.25,
+        0.26,
+        0.27
+      ],
+      "sha256": "cd577342d070c8fa14c2bbffc105c19535b6c485d480d99ea05206ed9c817764"
+    },
+    {
+      "name": "15_Kafa_Gozler_Butun",
+      "file": "STL/15_Kafa_Gozler_Butun.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 90,
+      "painting_color_rgb": [
+        0.75,
+        0.45,
+        0.28
+      ],
+      "sha256": "ea19ced097befa8a964342da6e05b6f3275768bc72fbea74a900173a545f9b7f",
+      "eyes_integrated": true,
+      "eye_insert_sockets": false
+    },
+    {
+      "name": "18_Sac",
+      "file": "STL/18_Sac.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 100,
+      "painting_color_rgb": [
+        0.16,
+        0.075,
+        0.025
+      ],
+      "sha256": "5a9359c192a260cd41df335177b3a546d32df6133565fd7d65688c08b2141851"
+    },
+    {
+      "name": "19_Bere",
+      "file": "STL/19_Bere.stl",
+      "removal_axis": [
+        0,
+        0,
+        1
+      ],
+      "removal_distance_mm": 70,
+      "painting_color_rgb": [
+        0.5,
+        0.035,
+        0.035
+      ],
+      "sha256": "a4212c518c7b7c216cb0f32d78441f8faa772ab1ad937176aecd32e7e232b445"
+    }
+  ],
+  "version": "v2.1.0",
+  "is_primary_version": true,
+  "eyes_integrated": true,
+  "model_part_count": 18,
+  "production_quantity": 230,
+  "blender_file": "Amazon_Cocugu_160mm_Ana_Surum_v2.1.0.blend"
+}

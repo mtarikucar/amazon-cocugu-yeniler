@@ -1,0 +1,81 @@
+{
+  "file": "Amazon_Cocugu_160mm_Ana_Surum_v2.1.0.blend",
+  "mesh_object_count": 18,
+  "eyes_integrated": true,
+  "separate_eye_objects": false,
+  "saved_file_reopened": true,
+  "bounds_vs_stl": {
+    "01_Kaide": {
+      "bounds_error_mm": 0.0,
+      "triangles": 65076
+    },
+    "02_Kaya": {
+      "bounds_error_mm": 4.76837158203125e-07,
+      "triangles": 37292
+    },
+    "03_Sol_Bot": {
+      "bounds_error_mm": 1.1920928955078125e-07,
+      "triangles": 64648
+    },
+    "04_Sag_Bot": {
+      "bounds_error_mm": 5.960464477539062e-07,
+      "triangles": 64108
+    },
+    "05_Bacaklar": {
+      "bounds_error_mm": 0.0,
+      "triangles": 61940
+    },
+    "06_Elbise": {
+      "bounds_error_mm": 1.9073486328125e-06,
+      "triangles": 75544
+    },
+    "07_Zirh": {
+      "bounds_error_mm": 0.0,
+      "triangles": 123702
+    },
+    "08_Pelerin": {
+      "bounds_error_mm": 0.0,
+      "triangles": 111420
+    },
+    "09_Sol_Kol": {
+      "bounds_error_mm": 0.0,
+      "triangles": 31992
+    },
+    "10_Sol_El": {
+      "bounds_error_mm": 4.76837158203125e-07,
+      "triangles": 14474
+    },
+    "11_Sag_Kol": {
+      "bounds_error_mm": 2.384185791015625e-07,
+      "triangles": 36520
+    },
+    "20_Sag_El": {
+      "bounds_error_mm": 0.0,
+      "triangles": 18044
+    },
+    "12_Kalkan": {
+      "bounds_error_mm": 5.960464477539062e-07,
+      "triangles": 43386
+    },
+    "13_Kalkan_Cemberi": {
+      "bounds_error_mm": 7.152557373046875e-07,
+      "triangles": 60294
+    },
+    "14_Arma": {
+      "bounds_error_mm": 9.5367431640625e-07,
+      "triangles": 62752
+    },
+    "15_Kafa_Gozler_Butun": {
+      "bounds_error_mm": 9.5367431640625e-07,
+      "triangles": 45346
+    },
+    "18_Sac": {
+      "bounds_error_mm": 1.9073486328125e-06,
+      "triangles": 206718
+    },
+    "19_Bere": {
+      "bounds_error_mm": 0.0,
+      "triangles": 70750
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "01_Kaide": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 65076,
+    "volume_mm3": 59943.27899057896,
+    "bounds_mm": [
+      [
+        -44.59099197387695,
+        -44.54523468017578,
+        0.0
+      ],
+      [
+        44.590606689453125,
+        44.54523468017578,
+        10.850000381469727
+      ]
+    ],
+    "sha256": "7c191c2d8debb8df56e5614e09253e9263ebdfdb298873222782b6ecfad46a6e"
+  },
+  "02_Kaya": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 37292,
+    "volume_mm3": 8181.786777125019,
+    "bounds_mm": [
+      [
+        -26.53704071044922,
+        11.943979263305664,
+        7.349999904632568
+      ],
+      [
+        17.638858795166016,
+        40.179481506347656,
+        30.86009979248047
+      ]
+    ],
+    "sha256": "5f367b473f01317f7707453075e6fa9577b0b03eb8088bcdffa420919e8f917d"
+  },
+  "03_Sol_Bot": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 64648,
+    "volume_mm3": 4352.439574152137,
+    "bounds_mm": [
+      [
+        -36.472557067871094,
+        -12.975893020629883,
+        1.883273959159851
+      ],
+      [
+        -13.531828880310059,
+        10.364289283752441,
+        54.139808654785156
+      ]
+    ],
+    "sha256": "ddb536583534b8e88f5f3c496b286385e8563fd2674d753ad1c89c0478bb0ebe"
+  },
+  "04_Sag_Bot": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 64108,
+    "volume_mm3": 4015.1326523832054,
+    "bounds_mm": [
+      [
+        11.101166725158691,
+        -20.582727432250977,
+        1.999621033668518
+      ],
+      [
+        36.89886474609375,
+        2.25484299659729,
+        51.180152893066406
+      ]
+    ],
+    "sha256": "2d96cee1c23aab4806abd4cfe55ae9d726fb03bd40e1ebc517fa41e889cd37d2"
+  },
+  "05_Bacaklar": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 61940,
+    "volume_mm3": 15393.591111915164,
+    "bounds_mm": [
+      [
+        -29.203977584838867,
+        -18.422903060913086,
+        32.66994094848633
+      ],
+      [
+        25.453184127807617,
+        8.908645629882812,
+        70.76390838623047
+      ]
+    ],
+    "sha256": "922ea79f55ce68bf76866ffb8dd0a7aa2cbcb4294191f2fc96adb5b43a9d3c4f"
+  },
+  "06_Elbise": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 75544,
+    "volume_mm3": 12371.728363265436,
+    "bounds_mm": [
+      [
+        -27.155691146850586,
+        -25.0578556060791,
+        54.305362701416016
+      ],
+      [
+        23.697935104370117,
+        12.155014038085938,
+        85.8446273803711
+      ]
+    ],
+    "sha256": "5472ff2a036c1e07ef09c018099d19e5043ba8b6484e85e1c119123e17a1e709"
+  },
+  "07_Zirh": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 123702,
+    "volume_mm3": 9192.577188727833,
+    "bounds_mm": [
+      [
+        -19.919912338256836,
+        -22.892627716064453,
+        69.42622375488281
+      ],
+      [
+        16.96687889099121,
+        10.058419227600098,
+        103.05303192138672
+      ]
+    ],
+    "sha256": "f6f46f288aec1459cc9702cc02df188e427c03f320cc1cc88a1df15791edf81f"
+  },
+  "08_Pelerin": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 111420,
+    "volume_mm3": 15537.986531794872,
+    "bounds_mm": [
+      [
+        -23.95210838317871,
+        -23.69602394104004,
+        62.88412857055664
+      ],
+      [
+        24.707956314086914,
+        15.080262184143066,
+        113.1261215209961
+      ]
+    ],
+    "sha256": "bead5f373455928e50a15e4a3b0418bd73ac5facd4d1af909269d28d4c4b8cdb"
+  },
+  "09_Sol_Kol": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 31992,
+    "volume_mm3": 2391.735667379162,
+    "bounds_mm": [
+      [
+        -35.18292999267578,
+        -5.461023807525635,
+        71.64698791503906
+      ],
+      [
+        -11.81876277923584,
+        10.076563835144043,
+        102.55274963378906
+      ]
+    ],
+    "sha256": "042a2da85c64661a1ce47d91304ab476f52f09a19387f3e99137cc2cbd78df69"
+  },
+  "10_Sol_El": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 14474,
+    "volume_mm3": 788.662431596587,
+    "bounds_mm": [
+      [
+        -35.716819763183594,
+        -5.27566385269165,
+        63.34943389892578
+      ],
+      [
+        -25.47004508972168,
+        8.008913040161133,
+        81.42161560058594
+      ]
+    ],
+    "sha256": "42aa03603c7152b3879368d102e66c6d3f48b3bf052a2fcfa303829751608d80"
+  },
+  "11_Sag_Kol": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 36520,
+    "volume_mm3": 2993.245193938126,
+    "bounds_mm": [
+      [
+        10.293335914611816,
+        -27.342348098754883,
+        70.93557739257812
+      ],
+      [
+        32.92307662963867,
+        -3.9990060329437256,
+        99.14470672607422
+      ]
+    ],
+    "sha256": "34c48b39d79ed8d4b173640ce3d1c226b3528f21c44fe52b89d48c60811eec2b"
+  },
+  "20_Sag_El": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 18044,
+    "volume_mm3": 454.2834746400077,
+    "bounds_mm": [
+      [
+        12.49544620513916,
+        -27.54143524169922,
+        64.38274383544922
+      ],
+      [
+        36.20561218261719,
+        -17.422607421875,
+        74.63892364501953
+      ]
+    ],
+    "sha256": "491c706ee91fd3680dff24e5ed684a755159afd6ef9309d4ad45ea86639e868f"
+  },
+  "12_Kalkan": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 43386,
+    "volume_mm3": 15970.951157120546,
+    "bounds_mm": [
+      [
+        1.689576506614685,
+        -32.74903106689453,
+        50.21220016479492
+      ],
+      [
+        53.54435348510742,
+        -5.468148231506348,
+        105.37687683105469
+      ]
+    ],
+    "sha256": "9d74e1da16c24ec517127724b25935bf9d46fa5c42fddb6a85699b1d286473f0"
+  },
+  "13_Kalkan_Cemberi": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 60294,
+    "volume_mm3": 4046.3102860412146,
+    "bounds_mm": [
+      [
+        -2.8130404949188232,
+        -33.78458786010742,
+        45.76004409790039
+      ],
+      [
+        56.84565734863281,
+        -2.5793049335479736,
+        109.41831970214844
+      ]
+    ],
+    "sha256": "96efabc8d8601fd216fa05d9ce8409f831b28128cef5765fb15c97f7adac5f4e"
+  },
+  "14_Arma": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 62752,
+    "volume_mm3": 2708.0321256089887,
+    "bounds_mm": [
+      [
+        13.453621864318848,
+        -33.04104232788086,
+        56.19099044799805
+      ],
+      [
+        46.52734375,
+        -14.81976318359375,
+        95.12464141845703
+      ]
+    ],
+    "sha256": "cd577342d070c8fa14c2bbffc105c19535b6c485d480d99ea05206ed9c817764"
+  },
+  "15_Kafa_Gozler_Butun": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 45346,
+    "volume_mm3": 6533.406019345423,
+    "bounds_mm": [
+      [
+        -16.272560119628906,
+        -20.949748992919922,
+        100.05757141113281
+      ],
+      [
+        19.588754653930664,
+        7.663769721984863,
+        138.53665161132812
+      ]
+    ],
+    "sha256": "ea19ced097befa8a964342da6e05b6f3275768bc72fbea74a900173a545f9b7f"
+  },
+  "18_Sac": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 206718,
+    "volume_mm3": 22698.52746074152,
+    "bounds_mm": [
+      [
+        -39.099700927734375,
+        -24.527246475219727,
+        74.3613510131836
+      ],
+      [
+        24.77361488342285,
+        31.58867835998535,
+        145.44723510742188
+      ]
+    ],
+    "sha256": "5a9359c192a260cd41df335177b3a546d32df6133565fd7d65688c08b2141851"
+  },
+  "19_Bere": {
+    "watertight": true,
+    "winding_consistent": true,
+    "components": 1,
+    "zero_area_faces": 0,
+    "triangles": 70750,
+    "volume_mm3": 16417.949830032696,
+    "bounds_mm": [
+      [
+        -18.67837905883789,
+        -22.142990112304688,
+        129.0308074951172
+      ],
+      [
+        21.559019088745117,
+        19.672069549560547,
+        160.0
+      ]
+    ],
+    "sha256": "a4212c518c7b7c216cb0f32d78441f8faa772ab1ad937176aecd32e7e232b445"
+  }
+}

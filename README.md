@@ -1,34 +1,34 @@
-# Amazon Çocuğu Yeniler — v2.0.0
+# Amazon Çocuğu Yeniler — v2.1.0 ana sürüm
 
-Kaide dahil **160 mm**, pim–yuva montajlı **20 parçalı** güncel STL seti. Gözleri kafayla bütün olan alternatif kafa aynı ZIP'e eklenmiştir.
+Kaide dahil **160 mm, 18 parçalı** montaj seti. **Gözler kafayla birleşiktir.** Kafa, gözler, kaşlar ve kirpikler tek kapalı parçadır; ayrı göz STL’si veya göz takma yuvası yoktur.
 
-**[Tüm STL'leri tek ZIP indir](models/amazon-cocugu-160mm-stl-v2.0.0.zip)** · [GitHub sürümü](https://github.com/mtarikucar/amazon-cocugu-yeniler/releases/tag/v2.0.0) · [Montaj kılavuzu](docs/v2.0.0/MONTAJ.md)
+**[Ana paketi indir](https://github.com/mtarikucar/amazon-cocugu-yeniler/releases/download/v2.1.0/amazon-cocugu-160mm-18-parca-ana-surum-v2.1.0.zip)** · [Sürüm sayfası](https://github.com/mtarikucar/amazon-cocugu-yeniler/releases/tag/v2.1.0) · [Montaj kılavuzu](docs/v2.1.0/MONTAJ.md)
 
-![160 mm modelin güncel görünümü](docs/v2.0.0/images/front.png)
+![18 parçalı ana model](docs/v2.1.0/images/front.png)
 
-## ZIP içeriği
+## Paket içeriği
 
-- `STL/`: 20 parçalı ana figür seti.
-- `Alternatif_Kafa/`: gözleri ayrılmamış, tek parça kafa. `15_Kafa`, `16_Sol_Goz` ve `17_Sag_Goz` yerine kullanılır; bu seçenekle figür **18 parçadan** oluşur.
-- `Gecme_Testi/`: 4 isteğe bağlı tolerans testi STL'si.
-- Türkçe kullanım açıklaması ve SHA256 dosya doğrulama listesi.
+- `STL/`: 18 model parçası; ana kafa `15_Kafa_Gozler_Butun.stl`.
+- `Amazon_Cocugu_160mm_Ana_Surum_v2.1.0.blend`: aynı 18 parçalı düzenlenebilir Blender dosyası.
+- `Gecme_Testi/`: 2 genel pim–yuva kuponu; figürün parça sayısına dahil değildir.
+- Türkçe montaj kılavuzu, parça listesi, kontrol raporları ve SHA256 doğrulama listesi.
 
-Toplam **21 model STL'si + 4 test STL'si** bulunur. Alternatif kafayla standart kafa/gözleri aynı figürde birlikte kullanmayın.
+Parçalar: kaide, kaya, iki bot, bacaklar, elbise/gövde, ayrı zırh, şal/pelerin, iki kol, iki el, kalkan gövdesi, kalkan çemberi, arma, gözleri bütün kafa, saç ve bere. Eski parça numaraları korunur; 16 ve 17 kullanılmaz.
 
-## Bu sürümde
+STL’ler mm ve %100 ölçekte, desteksiz ve ortak montaj konumlarındadır. Baskı yönü ve destekler dilimleyicide hazırlanır. Zırh elbiseden ayrı boyanıp sonradan takılır. Mevcut desen kabartıları korunur. Gözler boya veya decal ile renklendirilir; decal bir baskı dekorudur, ayrı 3B parça değildir.
 
-Pelerin hasarı onarıldı; saç, bere, kafa ve kıyafet sınırları elle düzeltilen model üzerinden korundu. Zırh elbiseden ayrı, iki el ve iki göz bağımsız parçalardır. Kalkan gövdesi, metal çember ve arma ayrı hazırlanmıştır. Montaj yolları ve pim–yuva bağlantıları düzenlenmiştir. Kaşlar ve kirpikler kafanın üzerinde kalır. Desen kabartıları bu montaj sürümünde korunmuştur.
+## Kontroller ve üretim
 
-STL'ler mm cinsindedir ve ortak montaj konumlarında, desteksiz verilir. Dilimleyicide her baskı parçasını uygun yönde yerleştirip destekleyin; ölçeği %100 tutun.
+18 STL yeniden okunup doğrulandı: her biri tek kapalı bileşen, tutarlı yüzey yönleri ve sıfır alanlı üçgen yok; toplam montaj yüksekliği 160 mm. Ana kafa önceki doğrulanmış birleşik gözlü kafa ile dosya düzeyinde aynıdır. Diğer 17 parça değişmemiştir. Kafanın pelerin, saç ve bereyle önceki montaj yolu kontrolleri korunmuştur; bu sürümde tüm montaj yolları yeniden taranmamıştır.
 
-## Doğrulama
+[STL doğrulaması](reports/v2.1.0/STL_Dogrulama.json) · [Kafa kontrolü](reports/v2.1.0/Butun_Gozlu_Kafa.json) · [Parça listesi](reports/v2.1.0/Parca_Listesi.json)
 
-20 ana STL'nin tamamı tekrar içe aktarılarak tek kapalı bileşen, tutarlı yüz yönü ve sıfır alanlı üçgen bulunmaması açısından kontrol edildi. 190 parça çifti ve belirtilen montaj sırasındaki 73 hareketli/sabit çift toplam 10.893 konumda denetlendi; 0,001 mm³ sayısal eşik üzerinde çakışma bulunmadı. Alternatif kafa ayrıca kapalı tek parça ve mevcut saç/bere/boyun bağlantılarıyla uyumlu olarak kontrol edildi.
+230 adet üretim için hazırlanmakta olan tabla planı da bu birleşik gözlü kafayı ve aynı 18 parça türünü kullanır. Bu ZIP dilimlenmiş yazıcı dosyası değildir. Fiziksel baskı testi yapılmadı; seri üretimden önce kendi reçine ve kürleme ayarlarıyla kupon ve bir tam prototip denenmelidir.
 
-[Kontrol özeti](reports/v2.0.0/Ozet.json) · [STL kontrolleri](reports/v2.0.0/STL_Dogrulama.json) · [Alternatif kafa kontrolü](reports/v2.0.0/butun-gozlu-kafa.json)
+## Göz decal dosyaları
 
-Fiziksel baskı denenmedi. 200 adet üretimden önce kendi reçine ve kürleme ayarlarınızla geçme kuponlarını ve bir tam prototipi deneyin. Pim ve yuvaları boya/astar birikmesinden koruyun.
+[5 çift A4 PDF](https://github.com/mtarikucar/amazon-cocugu-yeniler/releases/download/v2.0.0/Amazon_Cocugu_Goz_Decal_5_Cift_A4.pdf) · [İris ve gözbebeği PNG](https://github.com/mtarikucar/amazon-cocugu-yeniler/releases/download/v2.0.0/Iris_Gozbebegi_Cifti_Seffaf.png). Bu baskı görselleri birleşik gözlü kafa üzerinde boya/decal uygulaması içindir; fiziksel ölçü önce deneme çıktısıyla kontrol edilmelidir.
 
-## Önceki sürüm
+## Arşiv
 
-Eski 150 mm / 17 parçalı model dosyaları arşiv olarak korunur. [Önceki modelin açıklaması](docs/onceki-150mm-surum.md). Eski parçalarla bu 160 mm setin parçalarını karıştırmayın; güncel indirme yukarıdaki v2.0.0 ZIP'idir.
+[v2.0.0](https://github.com/mtarikucar/amazon-cocugu-yeniler/releases/tag/v2.0.0) ayrı gözlü eski paketi arşiv olarak korur; asıl sürüm yukarıdaki **v2.1.0, 18 parçalı birleşik gözlü set**tir. [150 mm model arşivi](docs/onceki-150mm-surum.md). Eski ve yeni setleri karıştırmayın.

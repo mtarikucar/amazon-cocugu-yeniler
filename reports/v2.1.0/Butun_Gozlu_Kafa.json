@@ -1,0 +1,68 @@
+{
+  "file": "15_Kafa_Gozler_Butun.stl",
+  "unit": "mm",
+  "compatible_set": "Amazon_Cocugu_160mm_Ana_Surum_v2.1.0",
+  "single_closed_solid": true,
+  "eyes_separate": false,
+  "triangles": 45346,
+  "volume_mm3": 6533.406019345423,
+  "bounds_mm": [
+    [
+      -16.272560119628906,
+      -20.949748992919922,
+      100.05757141113281
+    ],
+    [
+      19.588754653930664,
+      7.663769721984863,
+      138.53665161132812
+    ]
+  ],
+  "mounting_keys": [
+    {
+      "x": -2.206000000000003,
+      "y": -7,
+      "base": 120.95026553999148,
+      "tip": 127.44995189993162,
+      "diameter": 2.6,
+      "socket_diameter": 3.0,
+      "radial_clearance": 0.2,
+      "key_flat_y_offset": 0.8,
+      "engagement_min": 3.0
+    },
+    {
+      "x": 9.793999999999997,
+      "y": -5,
+      "base": 121.51238257473534,
+      "tip": 128.73459884876766,
+      "diameter": 2.6,
+      "socket_diameter": 3.0,
+      "radial_clearance": 0.2,
+      "key_flat_y_offset": 0.8,
+      "engagement_min": 3.0
+    }
+  ],
+  "socket_subtraction_performed": false,
+  "mount_tests": {
+    "08_Pelerin": {
+      "max_overlap_mm3": 0.0,
+      "samples": 121
+    },
+    "18_Sac": {
+      "max_overlap_mm3": 0.0,
+      "samples": 161
+    },
+    "19_Bere": {
+      "max_overlap_mm3": 0.0,
+      "samples": 161
+    }
+  },
+  "sha256": "ea19ced097befa8a964342da6e05b6f3275768bc72fbea74a900173a545f9b7f",
+  "promoted_without_geometry_change": true,
+  "mounting_key_coordinate_frame": "common assembled STL coordinates, mm",
+  "source_key_translation_applied_mm": [
+    80.794,
+    0,
+    0
+  ]
+}
